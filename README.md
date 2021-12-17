@@ -1,5 +1,7 @@
 # 底橫的去抖動
 
+註：在生產環境中請使用[這個依賴](https://www.lodashjs.com/docs/lodash.debounce)
+
 ```ts
 type 任何 = any;
 type 空虛 = void;
